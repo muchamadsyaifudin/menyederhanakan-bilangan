@@ -1,2 +1,0 @@
-# menyederhanakan-bilangan
-program c++
